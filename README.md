@@ -1,11 +1,11 @@
 # KindTrust
-Decentralized crowdfunding platform on blockchain
+Decentralized crowdfunding platform on blockchain (backend)
 
 
 
 Important files:
-KindTrust.sol: The smart contract that ties together organizations, projects, suppliers, purchases, and donors
-seed.js: These commands can be used to seed a blockchain, helping with testing
+`contracts/KindTrust.sol`: The smart contract that ties together organizations, projects, suppliers, purchases, and donors
+`seed.js`: These commands can be used to seed a blockchain, helping with testing
 
 
 
